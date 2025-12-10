@@ -1,0 +1,2 @@
+total_records,records_with_churn,churn_percentage,avg_monthly_by_contract,counts_by_tenure_group,internet_service_distribution
+1000,1000,25.6,"{""0"": 67.29799635701275, ""1"": 68.18406862745098, ""2"": 63.26983805668016}","{""New"": 321, ""Regular"": 268, ""Champion"": 209, ""Loyal"": 202}","{""1"": 797, ""0"": 203}"
